@@ -13,6 +13,7 @@ import org.springframework.web.reactive.function.client.WebClient;
 @EnableEurekaClient
 public class EmployeeServiceApplication {
 //	@Bean
+// @LoadBalanced
 //	public RestTemplate restTemplate(){
 //		return new RestTemplate();
 //	}
